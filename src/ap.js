@@ -3,7 +3,7 @@ import Search from './components/search'
 import Product from './components/product'
 import Footer from './components/footer'
 import Part4 from './components/part4'
-
+import './style.css'
 
 function Ap(){
     return(
