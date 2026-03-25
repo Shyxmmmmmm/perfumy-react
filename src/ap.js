@@ -5,7 +5,7 @@ import Footer from './components/footer'
 import Part4 from './components/part4'
 import './style.css'
 
-function Ap(){
+function App(){
     return(
     <div>
     <Navbar></Navbar>
@@ -16,4 +16,4 @@ function Ap(){
   </div>)
 }
 
-export default Ap
+export default App
